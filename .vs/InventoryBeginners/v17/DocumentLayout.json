@@ -1,0 +1,463 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\models\\sortmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\sortmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\areas\\identity\\identityhostingstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:areas\\identity\\identityhostingstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\repositories\\brandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:repositories\\brandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\repositories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:repositories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\models\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\models\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\models\\pagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\pagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:data\\inventorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|c:\\practical\\projects\\net5tonet6\\inventorybegin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3086428E-2BD4-4321-87CF-01DD84A8318F}|InventoryBeginners.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T07:05:08.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T07:58:40.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-24T07:35:46.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T07:35:49.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdentityHostingStartup.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Areas\\Identity\\IdentityHostingStartup.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\IdentityHostingStartup.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Areas\\Identity\\IdentityHostingStartup.cs",
+              "RelativeToolTip": "Areas\\Identity\\IdentityHostingStartup.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAEwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T02:45:35.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-24T02:44:22.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-24T02:44:10.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:05:22.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortModel.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\SortModel.cs",
+              "RelativeDocumentMoniker": "Models\\SortModel.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\SortModel.cs",
+              "RelativeToolTip": "Models\\SortModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:54:38.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BrandRepo.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Repositories\\BrandRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\BrandRepo.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Repositories\\BrandRepo.cs",
+              "RelativeToolTip": "Repositories\\BrandRepo.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:47:33.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PagerModel.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\PagerModel.cs",
+              "RelativeDocumentMoniker": "Models\\PagerModel.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\PagerModel.cs",
+              "RelativeToolTip": "Models\\PagerModel.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAASwEgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:11:51.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwD4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:20:35.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductGroup.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\ProductGroup.cs",
+              "RelativeDocumentMoniker": "Models\\ProductGroup.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\ProductGroup.cs",
+              "RelativeToolTip": "Models\\ProductGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:46:58.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Models\\ProductProfile.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\ProductProfile.cs",
+              "RelativeToolTip": "Models\\ProductProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:47:08.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Repositories\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepo.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Repositories\\CategoryRepo.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:48:18.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\Helper.cs",
+              "RelativeDocumentMoniker": "Models\\Helper.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\Helper.cs",
+              "RelativeToolTip": "Models\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:10:51.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:10:46.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:10:42.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Brand.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\Brand.cs",
+              "RelativeToolTip": "Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:09:27.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:08:52.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Models\\PaginatedList.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Models\\PaginatedList.cs",
+              "RelativeToolTip": "Models\\PaginatedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T07:06:48.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAA5wHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T07:36:39.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-24T02:19:53.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InventoryContext.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Data\\InventoryContext.cs",
+              "RelativeDocumentMoniker": "Data\\InventoryContext.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Data\\InventoryContext.cs",
+              "RelativeToolTip": "Data\\InventoryContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T02:18:11.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T03:29:35.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T03:29:32.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Practical\\Projects\\Net5ToNet6\\InventoryBegin\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-18T03:28:54.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
